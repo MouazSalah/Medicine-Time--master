@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#F40303</color>
+    <color name="colorPrimary">#F32121</color>
+    <color name="colorPrimaryDark">#D21919</color>
+    <color name="colorbg">#E93B3B</color>
+
+    <color name="color_light_grey">#4d4d4d</color>
+
+    <drawable name="touchFeedback">#CFD8DC</drawable>
+    <!--
+    <color name="colorAccent">#03a9f4</color>
+    <color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#1976d2</color>
+
+    <color name="color_light_grey">#4d4d4d</color>
+
+    <drawable name="touchFeedback">#CFD8DC</drawable>
+    -->
+
+</resources>
